@@ -1,6 +1,6 @@
 # AI_education
 
-diploma.ipynb
+Diploma_project.ipynb
 
 Neural network for predicting prices for a financial instrument (stocks, currency pairs, indices..) with integration into an application (web, mql5...), using additional data (dependence on other financial instruments and data).
 
